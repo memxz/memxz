@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cyrus @memxz
 - 👀 I’m interested in coding
-- 🌱 I’m a student
+- 🌱 I’m a Freelancer
 - 📫 Reach me through below info
 
 ```
