@@ -8,7 +8,7 @@
 │                                                            │
 │   Cyrus hardison / @memxz                                  │
 │                                                            │
-│       Work: Freelancer                                        │
+│       Work: Freelancer                                     │
 │     GitHub: https://github.com/memxz                       │
 │    Twitter: https://twitter.com/CyRuS_Hardes               │
 │     Dev.to: https://dev.to/hardison                        │
